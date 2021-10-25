@@ -94,3 +94,6 @@ ul {
 
     justify-content: center;
 }
+.socialLinks:hover {
+    background-color: rgb(143, 115, 209);
+}
